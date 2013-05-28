@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application name -->
+    <string name="app_name">MIRAGE</string>
+    
+    <!-- Check something -->
+    <string name="welcome_to_vib">When you touched button, activity\'ll start</string>
+    <string name="vibration_no">This device has no vibration function.</string>
+    
+    <!--  Main functions -->
+    <string name="vibration1">Vibration ONE</string>
+    <string name="vibration_continue">Continuously Vibration</string>
+    <string name="vibration_stop">Stop Vibration</string>
+    <string name="custom_image">Show picture</string>
+    <!-- Custom image are shown -->
+    <string name="custom_image_show">CSW</string>
+    <string name="csw">Copyright (C) 2013 CSW</string>
+    <string name="exit">Press back button to exit the app.</string>
+    <string name="system">Moving to System Settings.</string>
+    
+    <!-- MIRAGE Settings -->
+    <string name="btn_go">Go</string>
+    
+</resources>

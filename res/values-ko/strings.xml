@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 어플리케이션 이름 -->
+    <string name="app_name">MIRAGE</string>
+    
+    <!-- 시작 액티비티 -->
+    <string name="welcome_to_vib">버튼을 누를 시 행동을 실행 합니다.</string>
+    <string name="vibration_no">진동이 없는 기기 입니다.</string>
+    
+    <!--  메인 기능 -->
+    <string name="vibration1">한 번 진동</string>
+    <string name="vibration_continue">계속 진동</string>
+    <string name="vibration_stop">진동 중지</string>
+    <string name="custom_image">사진 표시</string>
+    <!-- 사용자 이미지가 보여짐 -->
+    <string name="custom_image_show">CSW</string>
+    <string name="csw">Copyright (C) 2013 최석원</string>
+    <string name="exit">종료하려면 한번 더 뒤로가기를 누르세요.</string>
+    <string name="system">시스템 설정으로 이동 합니다.</string>
+    
+    <!-- MIRAGE 설정 -->
+    <string name="btn_go">이동</string>
+    
+</resources>
